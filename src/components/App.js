@@ -4,7 +4,7 @@ const App = () => {
 
   const handleClick = (event) =>{
     // use console.log
-        console.log(`Button Id is :- ${event.target.id}`);
+        console.log(`Button Id is:-${event.target.id}`);
 
 
   }
